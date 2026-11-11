@@ -1,0 +1,3 @@
+run,episodes,first_100_mean_reward,last_100_mean_reward,best_100_mean_reward,last_100_mean_max_q
+results/terminal_penalty/cartpole_dqn_seed490,300,26.43,109.77,109.77000000000001,22.093118027513718
+results/ablation_no_lag/cartpole_dqn_seed490,300,21.54,15.43,21.54,128071.3046572145

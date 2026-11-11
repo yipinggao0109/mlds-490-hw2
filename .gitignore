@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.DS_Store
+**/*checkpoint.pt
+results/smoke/
+results/cartpole_dqn_seed490/
+results/soft_target/
+report/
+mlds_assignment2.pdf

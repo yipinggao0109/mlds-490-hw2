@@ -1,0 +1,10 @@
+{
+  "episodes": 500,
+  "policy": "greedy",
+  "checkpoint": "best_checkpoint.pt",
+  "mean_reward": 495.164,
+  "standard_deviation": 48.11765896217314,
+  "minimum_reward": 15.0,
+  "maximum_reward": 500.0,
+  "mean_episode_length": 495.164
+}

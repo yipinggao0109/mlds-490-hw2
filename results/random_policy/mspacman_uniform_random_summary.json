@@ -1,0 +1,9 @@
+{
+  "environment": "ALE/MsPacman-v5",
+  "episodes": 500,
+  "mean_reward": 248.36,
+  "standard_deviation": 100.4356032490471,
+  "minimum_reward": 90.0,
+  "maximum_reward": 1040.0,
+  "mean_episode_length": 491.236
+}

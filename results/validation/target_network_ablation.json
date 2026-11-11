@@ -1,0 +1,18 @@
+[
+  {
+    "run": "results/terminal_penalty/cartpole_dqn_seed490",
+    "episodes": 300,
+    "first_100_mean_reward": 26.43,
+    "last_100_mean_reward": 109.77,
+    "best_100_mean_reward": 109.77000000000001,
+    "last_100_mean_max_q": 22.093118027513718
+  },
+  {
+    "run": "results/ablation_no_lag/cartpole_dqn_seed490",
+    "episodes": 300,
+    "first_100_mean_reward": 21.54,
+    "last_100_mean_reward": 15.43,
+    "best_100_mean_reward": 21.54,
+    "last_100_mean_max_q": 128071.3046572145
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "environment": "CartPole-v1",
+  "episodes": 500,
+  "mean_reward": 22.468,
+  "standard_deviation": 12.431772842197528,
+  "minimum_reward": 8.0,
+  "maximum_reward": 93.0,
+  "mean_episode_length": 22.468
+}
